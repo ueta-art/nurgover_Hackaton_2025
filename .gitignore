@@ -1,0 +1,13 @@
+# Archivos sensibles
+.env
+.env.local
+.env.production
+.env.development
+
+# Node modules
+node_modules/
+src/
+
+# Archivos del sistema
+.DS_Store
+*.log
