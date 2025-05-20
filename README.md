@@ -3,7 +3,7 @@
 ### DESPLIEGUE EN:
 https://app.ueta-art.com/ 
 
-(alojado en un subdominio de mi web)
+(alojado provisionalmente en un subdominio de mi web)
 
 ### DESCRIPCIÓN DEL PROYECTO ###
 
